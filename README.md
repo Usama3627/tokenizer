@@ -47,7 +47,7 @@ Ensure these dependencies are specified in your `Cargo.toml` file.
 
 In future iterations of the project, the following enhancements can be considered:
 
--   **Modularization**: Refactor the code into modules, separating concerns such as BPE implementation and GPT-2 tokenization.
+-   ~~**Modularization**: Refactor the code into modules, separating concerns such as BPE implementation and GPT-2 tokenization.~~
 -   **Optimizations**: Explore optimizations to improve the performance of the tokenization process.
 -   **Documentation**: Enhance documentation to provide detailed explanations of the algorithms and codebase.
 -   **Additional Tokenization Techniques**: Integrate additional tokenization techniques to provide a comprehensive toolkit for NLP tasks.
